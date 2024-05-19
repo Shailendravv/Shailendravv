@@ -24,6 +24,7 @@
                 **Git:** Experienced in version control using Git, including branching, merging, and collaborating on projects using GitHub.
 
 ## Contact Me
+- **Portfolio:** https://main--shailendra-portfolio-a8a1ca.netlify.app/
 - **Email:** shailendramiet2@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/shailendra-singh-chauhan-16356810a/
 
